@@ -12,20 +12,20 @@
 
 # 💫 About Me
 
-🎓 Computer Science Engineering Undergraduate at Anurag University  
-🤖 Passionate about Artificial Intelligence, Generative AI, and Scalable Full-Stack Systems  
-💡 Experienced in building production-ready AI applications integrating Machine Learning, NLP, LLMs, and modern web technologies  
-⚡ Strong foundation in software development, backend engineering, REST APIs, and intelligent automation systems  
+ Computer Science Engineering Undergraduate at Anurag University  
+ Passionate about Artificial Intelligence, Generative AI, and Scalable Full-Stack Systems  
+ Experienced in building production-ready AI applications integrating Machine Learning, NLP, LLMs, and modern web technologies  
+ Strong foundation in software development, backend engineering, REST APIs, and intelligent automation systems  
 
 ---
 
 ## 🚀 What I Do
 
-- 🧠 ML model development & optimization
-- 🔎 NLP & structured document analysis
-- 🤖 LLM applications & prompt engineering
-- 🌐 Full Stack development (MERN + Spring Boot)
-- ⚡ Building production-ready AI systems
+-  ML model development & optimization
+-  NLP & structured document analysis
+-  LLM applications & prompt engineering
+-  Full Stack development (MERN + Spring Boot)
+-  Building production-ready AI systems
 
 ---
 
@@ -41,13 +41,13 @@
 
 # 🏆 Achievements
 
-- 🥇 Winner — National-Level Hackathon among 300+ participants for building KPI-driven urban emissions dashboards
-- 🥈 Runner-Up — Ideathon for presenting an innovative scalable real-world solution
-- 🎯 Finalist in Microsoft x Reskill and Adobe India Hackathons including Top 9 in a GenAI Hackathon
-- 🚀 Selected for OpenAI Academy x NxtWave Buildathon at state level
-- 🌟 Selected for Graphs Camp among 80,000+ applicants in a highly competitive process
-- 📜 Patent Filed — “AI Virtual Professor”, an AI-powered adaptive virtual teaching and personalized learning system
-- 📜 Certified in AI, ML, NLP, Python, SQL, Frontend Development, MongoDB, Networking, and Generative AI
+-  Winner — National-Level Hackathon among 300+ participants for building KPI-driven urban emissions dashboards
+-  Runner-Up — Ideathon for presenting an innovative scalable real-world solution
+-  Finalist in Microsoft x Reskill and Adobe India Hackathons including Top 9 in a GenAI Hackathon
+-  Selected for OpenAI Academy x NxtWave Buildathon at state level
+-  Selected for Graphs Camp among 80,000+ applicants in a highly competitive process
+-  Patent Filed — “AI Virtual Professor”, an AI-powered adaptive virtual teaching and personalized learning system
+-  Certified in AI, ML, NLP, Python, SQL, Frontend Development, MongoDB, Networking, and Generative AI
   
 ---
 
