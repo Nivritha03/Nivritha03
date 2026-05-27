@@ -1,58 +1,89 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0f172a,50:1e293b,100:0f172a&text=Nivritha&fontSize=75&fontColor=38BDF8&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20•%20Generative%20AI%20Developer%20•%20Full%20Stack%20Developer&descAlignY=55&descSize=20" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:020617,50:0f172a,100:1e293b&text=Nivritha&fontSize=75&fontColor=38BDF8&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20•%20Generative%20AI%20Developer%20•%20Full%20Stack%20Developer&descAlignY=55&descSize=20" />
+
+</div>
+
+<table>
+<tr>
+<td width="58%">
 
 # Hi 👋, I'm Nivritha
 
 ### AI Engineer • Generative AI Developer • Full Stack Developer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Building+Scalable+AI+Systems;Generative+AI+%7C+LLMs+%7C+RAG;Full+Stack+Developer;Open+Source+Contributor;Hackathon+Winner;Turning+Ideas+into+Intelligent+Products" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=false&vCenter=true&random=false&width=600&lines=Building+Scalable+AI+Systems;LLMs+%7C+RAG+%7C+NLP+%7C+Full+Stack;Open+Source+Contributor;Hackathon+Winner+%7C+Patent+Holder;Turning+Ideas+into+Intelligent+Products" />
 
 <br>
 
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="380"/>
+💡 Passionate about building intelligent AI systems  
+⚡ Focused on scalable backend & full-stack architectures  
+🚀 Exploring Agentic AI, LLMs, and RAG systems  
+🌍 Open Source Contributor & Hackathon Enthusiast  
+📚 Constantly learning emerging AI technologies  
 
-<br><br>
+<br>
 
-![](https://komarev.com/ghpvc/?username=Nivritha03&style=for-the-badge&color=0ea5e9)
-![](https://img.shields.io/github/followers/Nivritha03?style=for-the-badge&color=0ea5e9)
-![](https://img.shields.io/github/stars/Nivritha03?style=for-the-badge&color=0ea5e9)
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Nivritha03&label=Profile%20Views&color=0ea5e9&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/Nivritha03?style=for-the-badge&color=0ea5e9" />
+  <img src="https://img.shields.io/github/stars/Nivritha03?style=for-the-badge&color=0ea5e9" />
+</p>
 
-</div>
+</td>
+
+<td width="42%">
+
+<img align="right" alt="Coding Girl" width="100%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+</td>
+</tr>
+</table>
 
 ---
 
 # 💫 About Me
 
+<img align="right" alt="AI" width="300" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif">
+
 ```yaml
 Name: Nivritha
-Role: AI & Full Stack Developer
+Role: AI Engineer & Full Stack Developer
 Education: B.Tech CSE @ Anurag University
-Focus Areas:
+Focus:
   - Generative AI
-  - LLM Applications
-  - Full Stack Development
+  - Machine Learning
   - NLP & RAG Systems
-  - Backend Engineering
+  - Full Stack Engineering
+  - Backend Development
+
+Currently Building:
+  - AI-powered applications
+  - Real-time intelligent systems
+  - Scalable backend architectures
 ```
 
 💡 Passionate about building intelligent, scalable, and production-ready systems integrating AI with modern software engineering.
 
-⚡ Experienced in developing real-world applications using Machine Learning, NLP, LLMs, MERN Stack, Spring Boot, and cloud-ready backend architectures.
+⚡ Experienced in developing AI applications using LLMs, NLP, MERN Stack, Spring Boot, and scalable backend architectures.
+
+🌱 Interested in solving real-world problems using Generative AI, automation, and intelligent workflows.
+
+<br clear="right"/>
 
 ---
 
-# 🚀 What I Do
+# 🚀 Technical Expertise
 
 <div align="center">
 
-| AI & Machine Learning | Full Stack & Backend | Data & Analytics |
+| AI & Machine Learning | Backend & APIs | Full Stack Development |
 |---|---|---|
-| LLM Applications | MERN Stack Apps | Dashboard Development |
-| Prompt Engineering | Spring Boot APIs | Data Visualization |
-| NLP Systems | REST API Development | Business Insights |
-| RAG Pipelines | Real-Time Applications | KPI Analytics |
-| AI Automation | Scalable Architectures | Reporting Systems |
+| LLM Applications | Spring Boot APIs | MERN Stack |
+| Prompt Engineering | REST APIs | React.js |
+| NLP Systems | FastAPI & Flask | Responsive UI |
+| RAG Pipelines | Authentication Systems | Real-Time Apps |
+| Deep Learning | Microservices | Scalable Frontends |
 
 </div>
 
@@ -62,9 +93,9 @@ Focus Areas:
 
 <div align="center">
 
-| Achievement | Description |
+| 🏅 Achievement | 📌 Description |
 |---|---|
-| 🥇 National-Level Hackathon Winner | Built KPI-driven urban emissions dashboards |
+| 🥇 National-Level Hackathon Winner | Built KPI-driven urban emissions dashboard |
 | 🥈 Ideathon Runner-Up | Presented scalable real-world innovation |
 | 🎯 Hackathon Finalist | Microsoft x Reskill & Adobe India |
 | 🚀 OpenAI Buildathon Selection | Selected at state level |
@@ -115,6 +146,22 @@ Focus Areas:
 
 ---
 
+# 🧠 Areas of Interest
+
+<div align="center">
+
+| Artificial Intelligence | Software Engineering | Data & Analytics |
+|---|---|---|
+| Generative AI | Backend Engineering | Data Visualization |
+| Machine Learning | REST API Development | KPI Dashboards |
+| NLP & Transformers | Full Stack Systems | Business Analytics |
+| RAG Systems | Scalable Architectures | Reporting Solutions |
+| AI Automation | Cloud-ready Applications | Data-driven Insights |
+
+</div>
+
+---
+
 # 📊 GitHub Analytics
 
 <div align="center">
@@ -123,19 +170,12 @@ Focus Areas:
 
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nivritha03&theme=tokyonight&hide_border=true&background=0D1117" />
 
+<br><br>
+
 <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nivritha03&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 
 </div>
 
----
-
-# 📌 Profile Summary
-
-<div align="center">
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nivritha03&theme=tokyonight)
-
-</div>
 ---
 
 # 📈 Contribution Graph
@@ -154,7 +194,7 @@ Focus Areas:
 
 ---
 
-# ⚡ Developer Dashboard
+# 📌 Developer Dashboard
 
 <div align="center">
 
@@ -171,37 +211,87 @@ Focus Areas:
 
 ---
 
-# 🧩 Engineering Principles
+# 🧩 Development Philosophy
+
+<div align="center">
 
 ```text
 ✓ Build scalable and maintainable systems
-✓ Focus on real-world AI applications
+✓ Focus on impactful AI-driven products
 ✓ Prioritize performance and usability
+✓ Write clean production-ready code
 ✓ Learn continuously and adapt quickly
-✓ Write clean, production-ready code
-✓ Build technology with meaningful impact
+✓ Engineer solutions for real-world problems
 ```
+
+</div>
 
 ---
 
 # 🔍 Profile Insights
 
-```yaml
-Current Focus:
-  - Generative AI
-  - Agentic AI Systems
-  - Scalable Backend Architectures
-  - AI-powered Products
+<div align="center">
 
+```yaml
 Interests:
+  - Generative AI
   - Machine Learning
   - NLP
-  - Full Stack Engineering
+  - Backend Engineering
+  - Full Stack Development
   - Open Source
 
+Current Focus:
+  - AI-powered applications
+  - Intelligent automation systems
+  - Scalable backend architectures
+  - Real-time AI products
+
 Career Vision:
-  - Building impactful AI-driven systems
+  - Building impactful AI systems at scale
 ```
+
+</div>
+
+---
+
+# 📊 Coding Activity
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nivritha03&theme=tokyonight" />
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nivritha03&theme=tokyonight" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nivritha03&theme=tokyonight" />
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nivritha03&theme=tokyonight" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nivritha03&theme=tokyonight&utcOffset=5.5" />
+
+</div>
+
+---
+
+# 🛠 Workflow
+
+<div align="center">
+
+```mermaid
+graph LR;
+    A[Idea] --> B[Research]
+    B --> C[Design]
+    C --> D[Development]
+    D --> E[Testing]
+    E --> F[Deployment]
+    F --> G[Optimization]
+```
+
+</div>
 
 ---
 
@@ -209,7 +299,7 @@ Career Vision:
 
 <div align="center">
 
-> “Artificial Intelligence becomes truly powerful when combined with human creativity, engineering, and real-world impact.”
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 
 </div>
 
@@ -219,11 +309,17 @@ Career Vision:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nivritha-pola-b8b4b52a0/)
+<a href="https://www.linkedin.com/in/nivritha-pola-b8b4b52a0/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://dynamic-portfolio-showcase--23eg105r21.replit.app/)
+<a href="https://dynamic-portfolio-showcase--23eg105r21.replit.app/">
+  <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nivritha.pola@gmail.com)
+<a href="mailto:nivritha.pola@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 </div>
 
@@ -231,6 +327,8 @@ Career Vision:
 
 <div align="center">
 
-### ⭐ Building intelligent systems that solve real-world problems
+### ⭐ Building intelligent systems that create real-world impact
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:020617,50:0f172a,100:1e293b"/>
