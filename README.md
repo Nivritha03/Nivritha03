@@ -26,7 +26,7 @@
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Nivritha03&label=Profile%20Views&color=0ea5e9&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/Nivritha03?label=Followers&style=for-the-badge&logo=github&color=38BDF8" />
+<img src="https://img.shields.io/github/followers/Nivritha03?label=Followers&style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/github/stars/Nivritha03?style=for-the-badge&color=0ea5e9" />
 </p>
 
