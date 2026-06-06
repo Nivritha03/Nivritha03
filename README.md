@@ -110,37 +110,68 @@ Currently Building:
 
 <div align="center">
 
-### Languages
+## Languages
 
 ![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python)
 ![Java](https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk)
 ![C++](https://img.shields.io/badge/C++-111827?style=for-the-badge&logo=c%2B%2B)
 ![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript)
 ![R](https://img.shields.io/badge/R-111827?style=for-the-badge&logo=r)
 
-### AI / ML
+## AI / ML & GenAI
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-111827?style=for-the-badge&logo=pytorch)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-111827?style=for-the-badge&logo=tensorflow)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-111827?style=for-the-badge&logo=huggingface)
 ![OpenCV](https://img.shields.io/badge/OpenCV-111827?style=for-the-badge&logo=opencv)
 ![Scikit-learn](https://img.shields.io/badge/ScikitLearn-111827?style=for-the-badge&logo=scikitlearn)
+![OpenAI](https://img.shields.io/badge/OpenAI-111827?style=for-the-badge&logo=openai)
+![Gemini](https://img.shields.io/badge/Gemini_AI-111827?style=for-the-badge&logo=google)
 
-### Full Stack
+## Frontend
 
 ![React](https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react)
-![NodeJS](https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-111827?style=for-the-badge&logo=express)
-![SpringBoot](https://img.shields.io/badge/SpringBoot-111827?style=for-the-badge&logo=springboot)
-![MongoDB](https://img.shields.io/badge/MongoDB-111827?style=for-the-badge&logo=mongodb)
+![Next.js](https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=next.js)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-111827?style=for-the-badge&logo=tailwindcss)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-111827?style=for-the-badge&logo=framer)
 
-### Tools
+## Backend & APIs
+
+![Node.js](https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-111827?style=for-the-badge&logo=express)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-111827?style=for-the-badge&logo=springboot)
+![FastAPI](https://img.shields.io/badge/FastAPI-111827?style=for-the-badge&logo=fastapi)
+![NextAuth](https://img.shields.io/badge/NextAuth.js-111827?style=for-the-badge)
+
+## Database & ORM
+
+![MongoDB](https://img.shields.io/badge/MongoDB-111827?style=for-the-badge&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql)
+![Prisma](https://img.shields.io/badge/Prisma-111827?style=for-the-badge&logo=prisma)
+![Neon](https://img.shields.io/badge/Neon-111827?style=for-the-badge&logo=postgresql)
+
+## State Management & Validation
+
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-111827?style=for-the-badge)
+![React Hook Form](https://img.shields.io/badge/React_Hook_Form-111827?style=for-the-badge)
+![Zod](https://img.shields.io/badge/Zod-111827?style=for-the-badge)
+
+## Cloud & DevOps
+
+![Vercel](https://img.shields.io/badge/Vercel-111827?style=for-the-badge&logo=vercel)
+![Docker](https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-111827?style=for-the-badge&logo=githubactions)
+![Linux](https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux)
+
+## Tools
 
 ![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git)
-![Docker](https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker)
-![Linux](https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux)
+![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VSCode-111827?style=for-the-badge&logo=visualstudiocode)
 ![Postman](https://img.shields.io/badge/Postman-111827?style=for-the-badge&logo=postman)
-![VSCode](https://img.shields.io/badge/VSCode-111827?style=for-the-badge&logo=visualstudiocode)
+![Jupyter](https://img.shields.io/badge/Jupyter-111827?style=for-the-badge&logo=jupyter)
 
 </div>
 
