@@ -160,6 +160,8 @@ Currently Building:
 
 ## Cloud & DevOps
 
+![AWS](https://img.shields.io/badge/AWS-111827?style=for-the-badge&logo=amazonaws)
+![AWS Cloud Practitioner](https://img.shields.io/badge/AWS_Cloud_Practitioner_Essentials-111827?style=for-the-badge&logo=amazonaws)
 ![Vercel](https://img.shields.io/badge/Vercel-111827?style=for-the-badge&logo=vercel)
 ![Docker](https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-111827?style=for-the-badge&logo=githubactions)
@@ -174,7 +176,6 @@ Currently Building:
 ![Jupyter](https://img.shields.io/badge/Jupyter-111827?style=for-the-badge&logo=jupyter)
 
 </div>
-
 ---
 
 # 🧠 Areas of Interest
